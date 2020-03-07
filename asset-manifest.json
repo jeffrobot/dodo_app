@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dodo_app/static/css/main.b7cf6848.chunk.css",
+    "main.js": "/dodo_app/static/js/main.60a667cf.chunk.js",
+    "main.js.map": "/dodo_app/static/js/main.60a667cf.chunk.js.map",
+    "runtime-main.js": "/dodo_app/static/js/runtime-main.4d41da71.js",
+    "runtime-main.js.map": "/dodo_app/static/js/runtime-main.4d41da71.js.map",
+    "static/js/2.63f69968.chunk.js": "/dodo_app/static/js/2.63f69968.chunk.js",
+    "static/js/2.63f69968.chunk.js.map": "/dodo_app/static/js/2.63f69968.chunk.js.map",
+    "index.html": "/dodo_app/index.html",
+    "precache-manifest.22066cc5afb08bfd6342b1cc72a923ee.js": "/dodo_app/precache-manifest.22066cc5afb08bfd6342b1cc72a923ee.js",
+    "service-worker.js": "/dodo_app/service-worker.js",
+    "static/css/main.b7cf6848.chunk.css.map": "/dodo_app/static/css/main.b7cf6848.chunk.css.map",
+    "static/js/2.63f69968.chunk.js.LICENSE.txt": "/dodo_app/static/js/2.63f69968.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d41da71.js",
+    "static/js/2.63f69968.chunk.js",
+    "static/css/main.b7cf6848.chunk.css",
+    "static/js/main.60a667cf.chunk.js"
+  ]
+}
